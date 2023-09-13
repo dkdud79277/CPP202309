@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(20230913_CPP.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  arithmeticShort.cpp
+  20230913_CPP.vcxproj -> C:\Users\AI\Desktop\20230913_CPP\x64\Debug\20230913_C.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(5385,5): warning MSB3061: "C:\Users\AI\Desktop\20230913_CPP\x64\Debug\20230913_CPP.exe" 파일을 삭제할 수 없습니다. 'C:\Users\AI\Desktop\20230913_CPP\x64\Debug\20230913_CPP.exe' 경로에 대한 액세스가 거부되었습니다.
